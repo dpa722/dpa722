@@ -5,6 +5,8 @@
 
 Here are some ideas to get you started:
 
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Desarrollador de sistemas conputacionales orientado al desarrollo web
+
+### Donde encontrarme
+
+ - [Twiter](https://twitter.com/danielito722)
+ - [LinkedIn](https://www.linkedin.com/in/daniel-pu%C3%B1a/)
