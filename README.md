@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Desarrollador de sistemas conputacionales orientado al desarrollo web
+Desarrollador de sistemas computacionales orientado al desarrollo web
 
 ### Donde encontrarme
 
